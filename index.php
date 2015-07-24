@@ -1,6 +1,6 @@
+<?php
 
-<html>
-<body>
-	<h1> Test </h1>
-</body>
-</html>
+echo "php on heroku is awesome";
+
+?>
+
